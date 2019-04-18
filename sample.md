@@ -1,1 +1,1 @@
-hoge.
+This is sample file for github.
